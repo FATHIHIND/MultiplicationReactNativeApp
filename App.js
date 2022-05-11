@@ -61,9 +61,9 @@ const styles = StyleSheet.create({
     fontSize: 18
   },
   title:{
-    color:'#5ead97',
+    color:'black',
     textAlign: 'center',
-    fontSize:'20px',
+    fontSize:'16px',
     fontStyle : 'italic'
   }
 });
